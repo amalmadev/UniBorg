@@ -76,7 +76,7 @@ directory, with some utilities, enhancements, the `_core` plugin, and the `_inli
 
 ## design
 
-The modular design of the project enhances your Telegram experience
+The modular design of  the project enhances your Telegram experience
 through [plugins](https://github.com/SpEcHiDe/uniborg/tree/master/stdplugins)
 which you can enable or disable on demand.
 
